@@ -22,4 +22,4 @@ Web interaktif estetik dengan tema **Aurora Glassmorphism** untuk menyampaikan p
 * **Backend:** Formspree API.
 
 ---
-**Dibuat dengan ❤️ oleh Afgan**
+**Dibuat oleh Afgan**
